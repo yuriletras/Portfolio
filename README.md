@@ -1,4 +1,6 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Portfólio 
+
+# Olá, Bem vindo ao meu projeto de portfólio.
 
 # Meu portfólio de estreia, desenvolvido com base nos cursos de HTML e CSS da Alura.
 
